@@ -1,4 +1,4 @@
-# Las Nanas - Propuesta Web
+# Las Ñañas - Propuesta Web
 
 Landing page moderna para el grupo musical **Las Nanas**, creada como una propuesta visual y comercial para mejorar su presencia digital.
 
