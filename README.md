@@ -1,44 +1,38 @@
-# Las Ñañas - Propuesta Web
+# Las Nanas — Website Proposal
 
-Landing page moderna para el grupo musical **Las Nanas**, creada como una propuesta visual y comercial para mejorar su presencia digital.
+A modern, responsive landing page created to strengthen **Las Nanas'** online presence. It highlights the group, live shows, videos, and contact information through a more polished visual experience.
 
-La pagina actual del grupo es funcional, pero se siente muy simple y no transmite con fuerza la energia, identidad y nivel artistico que Las Nanas muestran en sus presentaciones. Esta propuesta busca darle una presencia mas profesional, llamativa y clara: con una portada visual, secciones para el elenco, shows, videos, contacto directo y una experiencia responsive para celular y escritorio.
+> The images in this project were sourced from the group's existing website and are used as visual references for this redesign proposal.
 
-> Las imagenes usadas en esta propuesta fueron tomadas de la pagina web actual de Las Nanas y se usaron como referencia visual para presentar una version renovada del sitio.
+## Preview
 
-## Vista Previa
+### Desktop
 
-### Escritorio
+![Home page on desktop](capturas-venta/01-inicio-escritorio.png)
 
-![Inicio escritorio](capturas-venta/01-inicio-escritorio.png)
+![Band members on desktop](capturas-venta/02-elenco-escritorio.png)
 
-![Elenco escritorio](capturas-venta/02-elenco-escritorio.png)
+![Shows on desktop](capturas-venta/03-shows-escritorio.png)
 
-![Shows escritorio](capturas-venta/03-shows-escritorio.png)
+![Videos on desktop](capturas-venta/04-videos-escritorio.png)
 
-![Videos escritorio](capturas-venta/04-videos-escritorio.png)
+![Contact section on desktop](capturas-venta/05-contacto-escritorio.png)
 
-![Contacto escritorio](capturas-venta/05-contacto-escritorio.png)
+### Mobile
 
-### Movil
+![Home page on mobile](capturas-venta/06-inicio-movil.png)
 
-![Inicio movil](capturas-venta/06-inicio-movil.png)
+![Band members on mobile](capturas-venta/07-elenco-movil.png)
 
-![Elenco movil](capturas-venta/07-elenco-movil.png)
+![Contact section on mobile](capturas-venta/08-contacto-movil.png)
 
-![Contacto movil](capturas-venta/08-contacto-movil.png)
+[Watch the desktop walkthrough](capturas-venta/09-recorrido-escritorio.webm)
 
-### Recorrido en video
+## Scope
 
-[Ver recorrido de escritorio](capturas-venta/09-recorrido-escritorio.webm)
+This proposal includes the website's source code only. Hosting, domain setup, deployment, maintenance, email services, third-party integrations, and future changes are not included.
 
-## Que Incluye
-
-Esta propuesta incluye unicamente el **source code** del sitio web. Es decir, se entrega el codigo fuente necesario para que un desarrollador pueda revisar, modificar o desplegar la pagina.
-
-No incluye configuracion de hosting, dominio, despliegue en produccion, mantenimiento, correos, integraciones externas ni cambios posteriores. Si el cliente desea avanzar con configuracion, publicacion o ajustes adicionales, esos servicios tendrian un costo extra.
-
-## Tecnologias
+## Tech Stack
 
 - Next.js
 - React
@@ -46,6 +40,6 @@ No incluye configuracion de hosting, dominio, despliegue en produccion, mantenim
 - Tailwind CSS
 - Framer Motion
 
-## Autor
+## Author
 
-Desarrollado por **Jairo Teran**.
+Developed by **Jairo Teran**.
